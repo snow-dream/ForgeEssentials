@@ -14,7 +14,7 @@ notifications:
   email: false
 branches:
   except:
-    - master
+    -1.12.2/develop
 
 # Make the gradle wrapper executable.
 before_install:
